@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["UF657GC8LQ.com.greatertate.PillTap"],
+        "components": [{ "/": "/t/*" }]
+      }
+    ]
+  }
+}
